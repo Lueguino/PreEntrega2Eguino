@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "titulo": "Arándano",
+        "descripcion": "Variedad: Rocio",
+        "categoria": "Berries",
+        "imagen": "https://panorama-agro.com/wp-content/uploads/2019/12/Portada-arandanos.jpg",
+        "precio": 150,
+        "stock": 10000
+    },
+
+    {
+        "id": 2,
+        "titulo": "Frambuesa",
+        "descripcion": "Variedad: Maravilla",
+        "categoria": "Berries",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UCBjvHDZIPBw8XoOnVCFyuZVetA75yj7Fw&s",
+        "precio": 160,
+        "stock": 5000
+    },
+
+    {
+        "id": 3,
+        "titulo": "Zarzamora",
+        "descripcion": "Variedad: Tupi",
+        "categoria": "Berries",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWksNh3IpMQBtWOV4MTLk4dZGIw8T0bsui8w&s",
+        "precio": 135,
+        "stock": 20000
+    },
+
+    {
+        "id": 4,
+        "titulo": "Fresa",
+        "descripcion": "Variedad: Candela",
+        "categoria": "Berries",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkganZebKDEyi_N_r9WhJaoWni0uKuDqRIQA&s",
+        "precio": 95,
+        "stock": 18000
+    },
+
+    {
+        "id": 5,
+        "titulo": "Cereza",
+        "descripcion": "Variedad: Garnet",
+        "categoria": "Berries",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiEb2PQqlbKE-PB6ocinbwFuY_57SjXrH5ew&s",
+        "precio": 185,
+        "stock": 9000
+    }
+
+]
+  
