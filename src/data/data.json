@@ -6,7 +6,7 @@
         "categoria": "Berries",
         "imagen": "https://panorama-agro.com/wp-content/uploads/2019/12/Portada-arandanos.jpg",
         "precio": 150,
-        "stock": 10000
+        "stock": 100
     },
 
     {
@@ -16,7 +16,7 @@
         "categoria": "Berries",
         "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UCBjvHDZIPBw8XoOnVCFyuZVetA75yj7Fw&s",
         "precio": 160,
-        "stock": 5000
+        "stock": 50
     },
 
     {
@@ -26,7 +26,7 @@
         "categoria": "Berries",
         "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWksNh3IpMQBtWOV4MTLk4dZGIw8T0bsui8w&s",
         "precio": 135,
-        "stock": 20000
+        "stock": 20
     },
 
     {
@@ -36,7 +36,7 @@
         "categoria": "Berries",
         "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkganZebKDEyi_N_r9WhJaoWni0uKuDqRIQA&s",
         "precio": 95,
-        "stock": 18000
+        "stock": 18
     },
 
     {
@@ -46,7 +46,7 @@
         "categoria": "Berries",
         "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiEb2PQqlbKE-PB6ocinbwFuY_57SjXrH5ew&s",
         "precio": 185,
-        "stock": 9000
+        "stock": 9
     }
 
 ]
