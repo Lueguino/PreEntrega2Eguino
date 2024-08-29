@@ -6,7 +6,7 @@
         "categoria": "Berries",
         "imagen": "https://panorama-agro.com/wp-content/uploads/2019/12/Portada-arandanos.jpg",
         "precio": 150,
-        "stock": 100
+        "stock": 15
     },
 
     {
@@ -16,7 +16,7 @@
         "categoria": "Berries",
         "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UCBjvHDZIPBw8XoOnVCFyuZVetA75yj7Fw&s",
         "precio": 160,
-        "stock": 50
+        "stock": 10
     },
 
     {
